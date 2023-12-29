@@ -1,0 +1,4 @@
+-github presentation
+-completed wireframes for home pages
+-research pull push fork
+-create new git and collab 
