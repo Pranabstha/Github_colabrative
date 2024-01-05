@@ -2,3 +2,9 @@
 -completed wireframes for home pages
 -research pull push fork
 -create new git and collab 
+
+jan 2
+-Home page development Django
+-Navbar creation and debugging
+-image insertion
+-concept of SVM in machine learning ML
