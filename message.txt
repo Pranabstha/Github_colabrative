@@ -5,3 +5,9 @@ jan 8
 - Login and authenticaion using C#
 - Successfully added user through admin pannel 
 - Researchedd on how to read and write Json file
+
+jan 11
+- SEO optimization
+- C# CW report
+
+
