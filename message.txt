@@ -12,5 +12,6 @@ jan 11
 
 jan 16 
 -fixed blog page issues
+- Ai course work
 
 
