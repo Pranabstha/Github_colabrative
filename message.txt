@@ -10,4 +10,7 @@ jan 11
 - SEO optimization
 - C# CW report
 
+jan 16 
+-fixed blog page issues
+
 
